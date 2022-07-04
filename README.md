@@ -118,3 +118,9 @@ Maintien à niveau élevé pendant un certain temps : difficile de maintenir à 
 Le front descendant droit d'une onde carrée : le taux de chute peut être contrôlé en ajustant l'ordre du filtre et l'effet global est meilleur que le front montant d'un filtre passe-haut.
 2. En augmentant l'ordre du filtre, celui-ci devient plus sensible, mais globalement, une plus grande partie de l'énergie du signal est filtrée, ce qui se traduit par l'observation de valeurs plus petites.
 3. La diminution de la capacité du montage de détection de l'enveloppe ou l'augmentation de la résistance du montage de détection de l'enveloppe augmentera la valeur d'observation.
+
+**Question:**
+
+Actuellement, il y a des avantages et des inconvénients à chacun des filtres RC passe-bas ou passe-haut, mais aucun ne change assez rapidement autour de la fréquence de coupure.
+La prochaine étape consistera peut-être à envisager d'autres structures de filtres ou des filtres actifs.
+****
